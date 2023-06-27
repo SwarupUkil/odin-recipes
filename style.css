@@ -1,14 +1,36 @@
 * {
     font-family: "Georgia";
-    background-color: aliceblue;
+    background-color: bisque;
     text-align: center;
 }
 
-li {
+p {
     text-align: left;
+}
+
+li, a {
+    text-align: left;
+    background-color: #fff1d2;
+}
+
+ul, ol {
+    border: 1px solid brown;
+    border-radius: 1%;
+    background-color: #fff1d2;
 }
 
 img {
     width: 300px;
     height: auto;
+    border: 2px solid black;
+    border-radius: 2%;
+}
+
+.subtitle {
+    text-decoration: underline;
+}
+
+.image-caption {
+    color: grey;
+    font-style: italic;
 }
