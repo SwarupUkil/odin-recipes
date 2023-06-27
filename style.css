@@ -1,0 +1,14 @@
+* {
+    font-family: "Georgia";
+    background-color: aliceblue;
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
